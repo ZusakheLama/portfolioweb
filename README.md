@@ -1,3 +1,24 @@
+# Car Insurance Claims
+
+### Project Overview
+This project analyzes car insurance claims data to uncover cost drivers and trends, focusing on repair dealers, assembly plants, mileage, vehicle lines, and labor efficiency.
+
+Dealer Cost by Repair Dealer Name: Identifies dealers with the highest repair costs.
+Total Cost Gross by Assembly Plant: Highlights plants with higher repair costs, indicating potential quality issues.
+Average Total Cost by Mileage Range: Shows how vehicle usage impacts repair costs.
+Average Material Cost by Vehicle Line: Identifies models with higher material costs.
+Total Cost by Year: Tracks repair cost trends over time.
+Average Labor Cost by Hour Range: Examines labor efficiency and repair time impact.
+
+![Car claims](https://github.com/user-attachments/assets/576a09f1-e66b-4610-8fe5-1e3c3eec6db0)
+
+### Tools
+
+- Power BI
+- Excel
+- SQL
+
+
 # Crime Stats in South Africa
 
 ### Project Overview
