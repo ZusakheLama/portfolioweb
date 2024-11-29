@@ -17,6 +17,7 @@ Average Labor Cost by Hour Range: Examines labor efficiency and repair time impa
 - Power BI
 - Excel
 - SQL
+- Python
 
 
 # Crime Stats in South Africa
