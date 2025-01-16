@@ -51,7 +51,8 @@ This project looks at sales trends over time to find out when sales are highest.
 
   This project analyzes the unemployment dataset in India to uncover trends and patterns in unemployment rates across different demographics and regions. I will also look at factors that influence these rates, such as education, age, and location. Additionally, I will examine how lockdowns during the Covid-19 pandemic affected job opportunities and contributed to rising unemployment rates. The goals of this project are to identify the main factors driving unemployment, understand how the pandemic impacted the job market, and provide insights that can help in creating effective policies to address unemployment in the future.
 
-![Car claims](https://github.com/user-attachments/assets/b2cd52a0-e587-4b70-a0de-ad35d08e12d1)
+![PowerBI_dashboard](https://github.com/user-attachments/assets/dc1dcaae-d306-4447-b4b8-e0fd60b5f3e5)
+
 
   ### Tools
   - Python
